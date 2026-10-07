@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.smartdata.hcts",
+    "sha256_cert_fingerprints":
+    ["8A:EF:55:EC:57:B5:B4:CA:F9:E0:33:8C:02:CB:B4:8C:6A:82:43:28:5C:30:91:BF:C2:81:37:78:F0:0F:8D:A1"]
+  }
+}]
